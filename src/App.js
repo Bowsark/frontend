@@ -8,7 +8,7 @@ import Footer from './components/Footer';
 import ProductPage from './pages/ProductPage';
 import CartPage from './pages/CartPage';  // Import your CartPage component
 import './styles.css';  // Import your CSS file
-require('./db');
+
 
 
 // Adjusted imports for images
